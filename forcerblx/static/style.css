@@ -1,0 +1,42 @@
+      body {
+        font-family: helvetica, arial, sans-serif;
+        margin: 2em;
+      }
+
+      body {
+        background-image: url("https://cdn.glitch.com/2b189bca-43d1-4066-a7a0-2ab53cf88471%2FQuickly-remade-the-new-discord-invite-background-discordapp.jpg?v=1611104384368");
+        background-color: #000000;
+      }
+
+      h1 {
+        font-style: italic;
+        color: #ffffff;
+      }
+    </style>
+    <style type="text/css">
+      #imgpos31 {
+        position: absolute;
+        left: 37%;
+        top: 1%;
+      }
+    </style>
+    <img
+      src="https://cdn.glitch.com/2b189bca-43d1-4066-a7a0-2ab53cf88471%2Ffroce.png?v=1610420475579"
+      width="89"
+      height="89"
+      alt="logo maujor"
+      id="imgpos31"
+    />
+    <style>
+.button {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
